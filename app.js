@@ -7,7 +7,7 @@ const episodios = [
       descripcion: 'En este primer episodio le pedimos al usuario que seleccione cualquier canal para poder observar o escuchar nuestro Podcast 🙃😊',
       fecha: '2024-04-13',
       youtubeUrl: 'https://youtu.be/jdaBQnW8pPY',
-      spotifyUrl: 'https://open.spotify.com/user/31q4wxtgdjpy34tz3euyu4ojpv6a',
+      spotifyUrl: 'https://open.spotify.com/episode/0UOq4bxqxEppPwtYDiMcbB?si=3KYwIogOTc6hpEfHYCuzRg',
       tiktokUrl: 'https://www.tiktok.com/@voces_delmas_alla',
       instagramUrl: 'https://www.instagram.com/voces_del_mas_alla999'
     },
@@ -16,7 +16,7 @@ const episodios = [
       descripcion: 'Esta seccion estaremos entrevistando al Profesor Luis Morataya ',
       fecha: '2024-04-14',
       youtubeUrl: 'https://drive.google.com/file/d/1cRJ6d4TEVAPc8ccJVvj2LBK7T-XkMip_/view?usp=sharing',
-      spotifyUrl: 'https://open.spotify.com/user/31q4wxtgdjpy34tz3euyu4ojpv6a',
+      spotifyUrl: 'https://open.spotify.com/episode/1Y4GSzDvI0LpUbXUC7Xg5r?si=PWiN4K52Qaqc63e_cy3aLw',
       tiktokUrl: 'https://www.tiktok.com/@voces_delmas_alla',
       instagramUrl: 'https://www.instagram.com/voces_del_mas_alla999'
 }, 
@@ -25,7 +25,7 @@ const episodios = [
       descripcion: 'El profesor Rubben nos estara narrando lo que el piensa de este tema',
       fecha: '2024-04-15',
       youtubeUrl: 'https://youtu.be/MV_hws5NEvE',
-      spotifyUrl: 'https://open.spotify.com/user/31q4wxtgdjpy34tz3euyu4ojpv6a',
+      spotifyUrl: 'https://open.spotify.com/episode/3bcuw86MGr9YM1MI4KlokJ?si=YUct5Z7YS7WwbzysdXh-Pw',
       tiktokUrl: 'https://www.tiktok.com/@voces_delmas_alla',
       instagramUrl: 'https://www.instagram.com/voces_del_mas_alla999'
 }, 
@@ -34,18 +34,9 @@ const episodios = [
       descripcion: 'En este ultima seccion nos encontramos con la Maestra Ninoshka, narrando sobre las experiencias en su vida conforme a nuestro tema (VOCES DEL MAS ALLA)',
       fecha: '2024-04-16',
       youtubeUrl: 'https://youtu.be/d2E8vlrFCjQ',
-      spotifyUrl: 'https://open.spotify.com/user/31q4wxtgdjpy34tz3euyu4ojpv6a',
+      spotifyUrl: 'https://open.spotify.com/episode/3bcuw86MGr9YM1MI4KlokJ?si=YUct5Z7YS7WwbzysdXh-Pw',
       tiktokUrl: 'https://www.tiktok.com/@voces_delmas_alla',
       instagramUrl: 'https://www.instagram.com/voces_del_mas_alla999'
-}, 
-{
-    titulo: 'Episodio 5',
-      descripcion: 'le recomendamos que no selecciones esta parte ya no esta completo😢',
-      fecha: '2024-04-17',
-      youtubeUrl: 'https://www.youtube.com/watch?v=abc123',
-      spotifyUrl: 'https://open.spotify.com/episode/xyz456',
-      tiktokUrl: 'https://www.tiktok.com/@mipodcast/video/123456',
-      instagramUrl: 'https://www.instagram.com/p/abc123/'
 }
   ];
   // Función para renderizar los episodios
